@@ -1,2 +1,0 @@
-# templateWordPress
-template para wordpress
